@@ -62,7 +62,7 @@
 				</tr>
 				<tr>
 					<td style="padding:0; margin:0; float:left display:block;"> 
-						<p style="margin:0; padding:0; line-height:1.3em; font-size:8.5px; letter-spacing:0.1em; font-family:'arial'; font-weight:100; color:#a5a5a5;"><?php if($work):echo '<span style="color:#ff7700;">T </span>'.$work;endif;?><?php if($cell):echo '<span style="color:#ff7700;"> C </span>'.$cell; endif;?><span style="color:#ff7700;"> F </span>416 649 0181</p>
+						<p style="margin:0; padding:0; line-height:1.3em; font-size:8.5px; letter-spacing:0.1em; font-family:'arial'; font-weight:100; color:#a5a5a5;"><?php if($work):echo '<span style="color:#ff7700;">T </span>'.$work;endif;?><?php if($cell):echo '<span style="color:#ff7700;"> C </span>'.$cell; endif;?></p>
 					</td>
 				</tr>
 				<tr>
